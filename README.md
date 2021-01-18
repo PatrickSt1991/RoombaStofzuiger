@@ -2,6 +2,8 @@
 Roomba 605 with Wemos D1 Mini
 
 Based on <a href="https://github.com/thehookup/MQTT-Roomba-ESP01">MQTT Roomba ESP01 (The Hookup)</a>
+<br/><br/>
+<a href="http://cfpm.org/~peter/bfz/iRobot_Roomba_500_Open_Interface_Spec.pdf">iRobot® Roomba 500 Open Interface (OI) Specification for Mini Din connector</a>
 
 Connection schematic
 <p align="center">
